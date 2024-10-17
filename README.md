@@ -59,7 +59,7 @@ mrphish is a bash based script which is officially made for phish*ng social medi
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/mrphish`
+* `git clone https://github.com/LeonardoModz/MR`
 * `cd $HOME`
 * `ls`
 * `cd mrphish`
